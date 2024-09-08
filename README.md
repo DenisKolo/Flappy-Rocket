@@ -8,6 +8,8 @@ Viel Spaß beim Spielen! 🚀
 
 
 1. Spiel starten:
+Downloade dir zuerst die ZIP-Datei aus dem Git-Hub-Repository.
+Öffne die Datei Flappy-Rocket.py.
 Um das Spiel zu starten, führe das Python-Skript in deiner IDE (z. B. PyCharm) aus.
 Hauptmenü und Neustart:
 Im Hauptmenü kannst du wählen, ob du das Spiel starten möchtest:
@@ -15,7 +17,7 @@ Im Hauptmenü kannst du wählen, ob du das Spiel starten möchtest:
 -Drücke ESC, um das Spiel zu beenden.
 Das Gleiche gilt bei Neustart.
 
-2. Ziel des Spiels: Steuere die Rakete durch die Meteoren und verhindere somit den Absturz der Rakete. 
+3. Ziel des Spiels: Steuere die Rakete durch die Meteoren und verhindere somit den Absturz der Rakete. 
 Steuerung der Rakete:
 Drücke die Leertaste, um die Rakete nach oben zu bewegen. Die Schwerkraft zieht die Rakete nach unten, also musst du die Leertaste im richtigen Moment drücken, um Hindernisse zu überwinden.
 Punkte sammeln:
@@ -24,7 +26,7 @@ Die Geschwindigkeit des Spiels nimmt zu, wenn du bestimmte Punktestände erreich
 Spielende:
 Das Spiel endet, wenn die Rakete mit einem Meteor kollidiert oder abstürzt
 
-3. Bestenliste und Highscores:
+4. Bestenliste und Highscores:
 Nach dem Ende eines Spiels wird dein Punktestand automatisch in der Bestenliste gespeichert sofern du die Top 5 erreichst . 
 Wenn das Spiel endet, hast du die Möglichkeit:
 
