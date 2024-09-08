@@ -6,7 +6,8 @@ obwohl er damit jeden Tag geschätzte 50.000USD durch Werbeeinnahmen generierte.
 Da es in unserer Jugend sehr präsent war, haben wir uns dazu entscheiden es wieder zum Leben zu erwecken und haben es auf das gegebene Motto Weltraum angepasst.
 Viel Spaß beim Spielen! 🚀
 
-1. Spielstart
+1. 
+
 Spiel starten:
 Um das Spiel zu starten, führe das Python-Skript in deiner IDE (z. B. PyCharm) aus.
 Hauptmenü und Neustart:
@@ -15,7 +16,7 @@ Im Hauptmenü kannst du wählen, ob du das Spiel starten möchtest:
 -Drücke ESC, um das Spiel zu beenden.
 Das Gleiche gilt bei Neustart.
 
-2. Spielsteuerung
+2. 
 Ziel des Spiels: Steuere die Rakete durch die Meteoren und verhindere somit den Absturz der Rakete. 
 Steuerung der Rakete:
 Drücke die Leertaste, um die Rakete nach oben zu bewegen. Die Schwerkraft zieht die Rakete nach unten, also musst du die Leertaste im richtigen Moment drücken, um Hindernisse zu überwinden.
