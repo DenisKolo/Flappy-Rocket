@@ -24,7 +24,7 @@ Die Geschwindigkeit des Spiels nimmt zu, wenn du bestimmte Punktestände erreich
 Spielende:
 Das Spiel endet, wenn die Rakete mit einem Meteor kollidiert oder abstürzt
 
-3. Bestenliste und Highscores
+3. Bestenliste und Highscores:
 Nach dem Ende eines Spiels wird dein Punktestand automatisch in der Bestenliste gespeichert sofern du die Top 5 erreichst . 
 Wenn das Spiel endet, hast du die Möglichkeit:
 
