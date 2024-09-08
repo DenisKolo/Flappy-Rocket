@@ -1,8 +1,8 @@
 # Flappy-Rocket
 Flappy Rocket ist ein unterhaltsames Spiel mit einfachen Steuerelementen, das jedoch schnelle Reflexe und Konzentration erfordert.
 Die Idee für das Spiel basiert auf dem legendären Klassiker Flappy Bird, das im Mai 2013 erschienen ist, jedoch im Februar 2014 aus den  App Stores gelöscht wurde.
-Der Entwickler fühlte sich durch die plötzliche Popularität überfordert, da es Ihm ein schlechtes Gewissen bereitete, das Menschen aufgrund des Spiels frustriert waren und die Spieler viel zeit in das Spiel steckten. 
-Obwohl er damit jeden Tag geschätzte 50.000USD durch Werbeeinnahmen generierte.
+Der Entwickler fühlte sich durch die plötzliche Popularität überfordert, da es Ihm ein schlechtes Gewissen bereitete, das Menschen aufgrund des Spiels frustriert waren und die Spieler viel zeit in das Spiel steckten, 
+obwohl er damit jeden Tag geschätzte 50.000USD durch Werbeeinnahmen generierte.
 Da es in unserer Jugend sehr präsent war, haben wir uns dazu entscheiden es wieder zum Leben zu erwecken und haben es auf das gegebene Motto Weltraum angepasst.
 Viel Spaß beim Spielen! 🚀
 
